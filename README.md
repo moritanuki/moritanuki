@@ -1,7 +1,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moritanuki)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moritanuki)
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/moritanuki/moritanuki/main/img/snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moritanuki)
 
