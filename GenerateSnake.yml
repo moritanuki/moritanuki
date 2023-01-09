@@ -3,7 +3,7 @@ name: GenerateSnake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "18 * * * *"
+    - cron: "19 * * * *"
 
 jobs:
   update-repository:
