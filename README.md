@@ -1,3 +1,4 @@
+![github-contribution-grid-snake](https://raw.githubusercontent.com/moritanuki/moritanuki/master/img/snake.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moritanuki)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moritanuki)
 
